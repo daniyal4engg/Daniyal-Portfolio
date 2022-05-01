@@ -9,6 +9,7 @@ import {
   DiGithubBadge,
   DiBootstrap,
   DiHtml5,
+  DiCss3,
 } from "react-icons/di";
 import { SiRedux, SiExpress, SiTailwindcss } from "react-icons/si";
 
@@ -22,6 +23,36 @@ function Techstack() {
         <span className="purple">Skills</span>
       </h1>
       <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
+        <Col xs={4} md={2} className="tech-icons">
+          <a
+            href="https://developer.mozilla.org/en-US/docs/Web/HTML"
+            target={"_blank"}
+          >
+            <DiHtml5 />
+            <p>Html5</p>
+          </a>
+        </Col>
+
+        <Col xs={4} md={2} className="tech-icons">
+          <a
+            href="https://developer.mozilla.org/en-US/docs/Web/CSS"
+            target={"_blank"}
+          >
+            <DiCss3 />
+            <p>cSS3</p>
+          </a>
+        </Col>
+
+        <Col xs={4} md={2} className="tech-icons">
+          <a
+            href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+            target={"_blank"}
+          >
+            <DiJavascript1 />
+            <p>Javascript</p>
+          </a>
+        </Col>
+
         <Col xs={4} md={2} className="tech-icons">
           <a href="https://reactjs.org/" target={"_blank"}>
             <DiReact />
@@ -54,33 +85,6 @@ function Techstack() {
           <a href="https://nodejs.org/en/" target={"_blank"}>
             <DiNodejs />
             <p>Nodejs</p>
-          </a>
-        </Col>
-
-        <Col xs={4} md={2} className="tech-icons">
-          <a
-            href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-            target={"_blank"}
-          >
-            <DiJavascript1 />
-            <p>Javascript</p>
-          </a>
-        </Col>
-
-        <Col xs={4} md={2} className="tech-icons">
-          <a href="https://tailwindcss.com/" target={"_blank"}>
-            <SiTailwindcss />
-            <p>Tailwind</p>
-          </a>
-        </Col>
-
-        <Col xs={4} md={2} className="tech-icons">
-          <a
-            href="https://developer.mozilla.org/en-US/docs/Web/HTML"
-            target={"_blank"}
-          >
-            <DiHtml5 />
-            <p>Html5</p>
           </a>
         </Col>
 

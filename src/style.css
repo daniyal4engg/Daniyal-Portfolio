@@ -173,6 +173,7 @@ html {
   display: flex;
   justify-content: center !important;
   padding-top: 9em !important;
+  margin-left: 100px;
 }
 
 @media (max-width: 767px) {

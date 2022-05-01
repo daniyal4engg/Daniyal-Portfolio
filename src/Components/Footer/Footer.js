@@ -9,36 +9,12 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © 2022</h3>
+          <h3></h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Daniyal</h3>
+          <h3>Made with ❤️ by Daniyal Shaikh.</h3>
         </Col>
-        <Col md="4" className="footer-body">
-          <ul className="footer-icons">
-            <li className="social-icons">
-              <a
-                href="https://github.com/daniyal4engg"
-                style={{ color: "white" }}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <AiFillGithub />
-              </a>
-            </li>
-
-            <li className="social-icons">
-              <a
-                href="https://linkedin.com/in/daniyalshaikhcoder/"
-                style={{ color: "white" }}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <FaLinkedinIn />
-              </a>
-            </li>
-          </ul>
-        </Col>
+        <Col md="4" className="footer-body"></Col>
       </Row>
     </Container>
   );
