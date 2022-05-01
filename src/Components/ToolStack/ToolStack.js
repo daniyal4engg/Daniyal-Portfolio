@@ -37,15 +37,13 @@ function ToolStack() {
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
-        <abbr title="Deploy Link">
-          <a
-            href="https://vercel.com/guides/deploying-react-with-vercel"
-            target={"_blank"}
-          >
-            <SiVercel />
-            <p>Vercel</p>
-          </a>
-        </abbr>
+        <a
+          href="https://vercel.com/guides/deploying-react-with-vercel"
+          target={"_blank"}
+        >
+          <SiVercel />
+          <p>Vercel</p>
+        </a>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <a href="https://www.netlify.com/" target={"_blank"}>

@@ -17,7 +17,7 @@ function Projects() {
             <ProjectCards
               imgPath="https://github.com/daniyal4engg/Daniyal-Portfolio/blob/master/src/project_screenshots/zee51.png?raw=true"
               title="Zee5.com clone"
-              description="An Over the top Streaming service to enjoy over the internet, watch movies, series, and other entertaining content for free or by paid subscription."
+              description="An Over the top Streaming service to enjoy over the internet, watch movies, series, and other entertaining content for free or by paid subscription by clicking on favorite category."
               tech="Tech-Stacks"
               techD="Html | Javascript | Css | MongoDb | Express "
               link="https://zee5clone.netlify.app/"
