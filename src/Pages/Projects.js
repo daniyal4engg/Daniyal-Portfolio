@@ -15,36 +15,36 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={6} className="project-card">
             <ProjectCards
-              imgPath=""
-              title="Flipkart clone"
-              description="This is an E-Commerce website which speciaizes in selling clothes and styling products. The website provides 800 brands and 33,000 products of different types of clothes, watches, sunglasses, shoes etc."
+              imgPath="https://github.com/daniyal4engg/Daniyal-Portfolio/blob/master/src/project_screenshots/zee51.png?raw=true"
+              title="Zee5.com clone"
+              description="An Over the top Streaming service to enjoy over the internet, watch movies, series, and other entertaining content for free or by paid subscription."
               tech="Tech-Stacks"
               techD="Html | Javascript | Css | MongoDb | Express "
-              link="https://flipkart01-clone.netlify.app/"
-              a="https://github.com/Rushikesh7997/Flipkart-Clone"
+              link="https://zee5clone.netlify.app/"
+              a="https://github.com/daniyal4engg/Zee5.com_clone"
             />
           </Col>
           <Col md={6} className="project-card">
             <ProjectCards
-              imgPath="https://github.com/Rushikesh7997/Sreenshots/blob/main/Tie-tac-toe%20game%201.PNG?raw=true"
-              title="Tic-Tac-Toe"
-              description="Play the classic Tic-Tac-Toe game (also called Noughts and Crosses) for free online with one or two players.It is Mind refreshing game It is created with the help of JavaScript Html and Css."
+              imgPath="https://github.com/daniyal4engg/Daniyal-Portfolio/blob/master/src/project_screenshots/myth.png?raw=true"
+              title="mytheresa.com clone"
+              description="This is an E-Commerce website which speciaizes in selling clothes and styling products. The website provides 800 brands and 33,000 products of different types of clothes, watches, shoes etc."
               tech="Tech-Stacks"
               techD="Html | Javascript | Css "
-              link="https://dainty-semifreddo-4e54b0.netlify.app/"
-              a="https://github.com/Rushikesh7997/Tic-Tac-Toe"
+              link="https://mytheresashp.netlify.app/"
+              a="https://github.com/daniyal4engg/mytheresa_clone"
             />
           </Col>
 
           <Col md={6} className="project-card">
             <ProjectCards
-              imgPath="https://github.com/Rushikesh7997/Sreenshots/blob/main/to-do%201.PNG?raw=true"
-              title="To-Do-List"
+              imgPath="https://github.com/daniyal4engg/Daniyal-Portfolio/blob/master/src/project_screenshots/dice-g301ebfc49_1920.jpg?raw=true"
+              title="Dice Game"
               description="ToDo List App is a kind of app that generally used to maintain our day-to-day tasks or list everything that we have to do. It is helpful in planning our daily schedules. It is created by JavaScript, Html, Css languages."
               tech="Tech-Stacks"
               techD="Html | Javascript | Css "
-              link="https://iridescent-granita-ec6794.netlify.app/"
-              a="https://github.com/Rushikesh7997/To-Do-List-App"
+              link="https://dicegameswitch.netlify.app/"
+              a="https://github.com/daniyal4engg/Dice-game"
             />
           </Col>
         </Row>
