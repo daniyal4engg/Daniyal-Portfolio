@@ -44,7 +44,7 @@ function Projects() {
               tech="Tech-Stacks"
               techD="Html | Javascript | Css "
               link="https://daniyal4engg.github.io/Translate-app/"
-              a="https://github.com/daniyal4engg/Dice-game"
+              a="https://github.com/daniyal4engg/Translate-app"
             />
           </Col>
 
@@ -52,7 +52,7 @@ function Projects() {
             <ProjectCards
               imgPath="https://github.com/daniyal4engg/Daniyal-Portfolio/blob/master/src/project_screenshots/dice-g301ebfc49_1920.jpg?raw=true"
               title="Dice Game"
-              description="ToDo List App is a kind of app that generally used to maintain our day-to-day tasks or list everything that we have to do. It is helpful in planning our daily schedules. It is created by JavaScript, Html, Css languages."
+              description="The object of this game is to be the first person to score 100 points. The game-play involves rolling dice and adding the total each time. However, there is a complication which gives the game its entertainment value.  A player scores points by rolling the dice and finding the total of the dots. For example, if a player rolls a 4 and 5, they score 9.  At this point they can choose to either:  roll again and continue adding to this score, or Hold (STOP) and keep the score of 9 for their first round. Continuing to add will obviously increase the total. However, there is a catch. If a 1 appears on any dice it will wipes out all of their total score for the entire game."
               tech="Tech-Stacks"
               techD="Html | Javascript | Css "
               link="https://dicegameswitch.netlify.app/"
