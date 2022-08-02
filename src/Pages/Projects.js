@@ -36,7 +36,7 @@ function Projects() {
               a="https://github.com/daniyal4engg/mytheresa_clone"
             />
           </Col>
-          {/* <Col md={6} className="project-card">
+          <Col md={6} className="project-card">
             <ProjectCards
               imgPath="https://github.com/daniyal4engg/Daniyal-Portfolio/blob/master/src/project_screenshots/zee51.png?raw=true"
               title="Zee5.com clone"
@@ -46,7 +46,7 @@ function Projects() {
               link="https://zee5clone.netlify.app/"
               a="https://github.com/daniyal4engg/Zee5.com_clone"
             />
-          </Col> */}
+          </Col>
         </Row>
       </Container>
     </Container>
