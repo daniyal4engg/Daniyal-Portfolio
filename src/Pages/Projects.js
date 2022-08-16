@@ -26,7 +26,7 @@ function Projects() {
           </Col>
           <Col md={6} className="project-card">
             <ProjectCards
-              imgPath="https://github.com/daniyal4engg/Daniyal-Portfolio/blob/master/src/project_screenshots/makeup5.jpg?raw=true"
+              imgPath="https://github.com/daniyal4engg/Daniyal-Portfolio/blob/master/src/project_screenshots/makeup10.jpg?raw=true"
               title="BobbiBrownCosmetics E-Commerce Web App"
               description="An E-Commerce website that allows people to buy makeup products & skincare essentials to enhance natural beauty at a brick-and-mortar location."
               tech="Tech-Stacks"
