@@ -17,11 +17,22 @@ function Projects() {
             <ProjectCards
               imgPath="https://github.com/daniyal4engg/Daniyal-Portfolio/blob/master/src/project_screenshots/apartclr.jpg?raw=true"
               title="Apartment Managment System"
-              description="Apartment Managment System for tracking and storing resident information where an admin can update Flat details acording to owner and tenant"
+              description="Apartment Managment System for tracking and storing resident information where an admin can update Flat details acording to owner and tenant."
               tech="Tech-Stacks"
               techD="Html | Css | Javascript | React | Chakra  | Node.js | Express.js | MongoDB "
               link="https://apartment-front-end.vercel.app/"
               a="https://github.com/daniyal4engg/apartment-front-end"
+            />
+          </Col>
+          <Col md={6} className="project-card">
+            <ProjectCards
+              imgPath="https://github.com/daniyal4engg/Daniyal-Portfolio/blob/master/src/project_screenshots/apartclr.jpg?raw=true"
+              title="BobbiBrownCosmetics E-Commerce Web App"
+              description="An E-Commerce website that allows people to buy makeup products & skincare essentials to enhance natural beauty at a brick-and-mortar location."
+              tech="Tech-Stacks"
+              techD="Html | Css | Javascript | React | Chakra  | Bootstrap "
+              link="https://bobbi-brown-cosmatics-app.vercel.app/"
+              a="https://github.com/daniyal4engg/BobbiBrownCosmatics-app"
             />
           </Col>
 
